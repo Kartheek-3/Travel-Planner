@@ -1,0 +1,611 @@
+{
+  "api_usage": {
+    "gemini": 4,
+    "google_maps": 7,
+    "openweather": 4,
+    "bigquery": 4
+  },
+  "request_logs": [
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 29.22,
+      "status_code": 200,
+      "timestamp": "2026-05-18T06:58:42.762455Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 23.42,
+      "status_code": 200,
+      "timestamp": "2026-05-18T06:58:46.765471Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 17.5,
+      "status_code": 200,
+      "timestamp": "2026-05-18T06:58:50.749828Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 10.75,
+      "status_code": 200,
+      "timestamp": "2026-05-18T06:58:54.739164Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 17.23,
+      "status_code": 200,
+      "timestamp": "2026-05-18T06:58:58.747587Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 23.83,
+      "status_code": 200,
+      "timestamp": "2026-05-18T06:59:02.762480Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 16.01,
+      "status_code": 200,
+      "timestamp": "2026-05-18T06:59:06.747008Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 15.17,
+      "status_code": 200,
+      "timestamp": "2026-05-18T06:59:10.737544Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 18.68,
+      "status_code": 200,
+      "timestamp": "2026-05-18T06:59:14.750704Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 16.06,
+      "status_code": 200,
+      "timestamp": "2026-05-18T06:59:18.745872Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 18.69,
+      "status_code": 200,
+      "timestamp": "2026-05-18T06:59:22.748644Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 24.79,
+      "status_code": 200,
+      "timestamp": "2026-05-18T06:59:25.807247Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 24.7,
+      "status_code": 200,
+      "timestamp": "2026-05-18T06:59:30.748971Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 18.19,
+      "status_code": 200,
+      "timestamp": "2026-05-18T06:59:34.745948Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 8.06,
+      "status_code": 200,
+      "timestamp": "2026-05-18T06:59:38.759338Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 38.62,
+      "status_code": 200,
+      "timestamp": "2026-05-18T06:59:42.772641Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 30.06,
+      "status_code": 200,
+      "timestamp": "2026-05-18T06:59:46.767516Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 17.28,
+      "status_code": 200,
+      "timestamp": "2026-05-18T06:59:50.760886Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 18.51,
+      "status_code": 200,
+      "timestamp": "2026-05-18T06:59:54.750255Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 17.29,
+      "status_code": 200,
+      "timestamp": "2026-05-18T06:59:58.747524Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 16.94,
+      "status_code": 200,
+      "timestamp": "2026-05-18T07:00:02.755549Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 16.44,
+      "status_code": 200,
+      "timestamp": "2026-05-18T07:00:06.755599Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 14.34,
+      "status_code": 200,
+      "timestamp": "2026-05-18T07:00:10.751140Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 20.4,
+      "status_code": 200,
+      "timestamp": "2026-05-18T07:00:14.753688Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 23.44,
+      "status_code": 200,
+      "timestamp": "2026-05-18T07:00:18.751532Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 21.68,
+      "status_code": 200,
+      "timestamp": "2026-05-18T07:00:22.753235Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 24.39,
+      "status_code": 200,
+      "timestamp": "2026-05-18T07:00:26.760003Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 20.98,
+      "status_code": 200,
+      "timestamp": "2026-05-18T07:01:26.751080Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 16.42,
+      "status_code": 200,
+      "timestamp": "2026-05-18T07:02:26.749541Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 17.15,
+      "status_code": 200,
+      "timestamp": "2026-05-18T07:03:26.756854Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 13.87,
+      "status_code": 200,
+      "timestamp": "2026-05-18T07:04:26.740612Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 14.72,
+      "status_code": 200,
+      "timestamp": "2026-05-18T07:05:26.758344Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 22.95,
+      "status_code": 200,
+      "timestamp": "2026-05-18T07:06:26.765065Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 17.78,
+      "status_code": 200,
+      "timestamp": "2026-05-18T07:07:26.746613Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 17.94,
+      "status_code": 200,
+      "timestamp": "2026-05-18T07:08:26.746932Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 20.75,
+      "status_code": 200,
+      "timestamp": "2026-05-18T07:09:26.752021Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 16.45,
+      "status_code": 200,
+      "timestamp": "2026-05-18T07:10:26.760972Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 15.97,
+      "status_code": 200,
+      "timestamp": "2026-05-18T07:11:26.745981Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 18.24,
+      "status_code": 200,
+      "timestamp": "2026-05-18T07:12:26.749400Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 22.84,
+      "status_code": 200,
+      "timestamp": "2026-05-18T07:13:26.760806Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 22.77,
+      "status_code": 200,
+      "timestamp": "2026-05-18T07:14:26.757377Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 9.22,
+      "status_code": 200,
+      "timestamp": "2026-05-18T07:51:43.146784Z"
+    },
+    {
+      "endpoint": "/get-routes",
+      "latency_ms": 2516.59,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:04:34.596125Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 1.38,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:06:58.487777Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 29.73,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:06:58.539065Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 1.02,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:07:02.486626Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 1.02,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:07:06.492098Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 0.0,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:07:10.489699Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 0.0,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:07:14.488843Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 0.0,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:07:18.489498Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 0.0,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:07:22.489414Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 1.95,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:07:26.492354Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 5.73,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:07:30.490843Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 1.54,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:07:34.491450Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 2.02,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:07:38.505206Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 0.0,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:07:42.498225Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 0.0,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:07:46.489170Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 6.24,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:07:50.497272Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 0.0,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:07:54.490369Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 0.0,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:07:58.489618Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 0.49,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:08:02.489499Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 0.0,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:08:06.480159Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 8.74,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:08:10.490866Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 0.0,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:08:14.494191Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 0.0,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:08:18.489639Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 1.05,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:08:22.489521Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 0.0,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:08:26.486632Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 0.0,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:08:30.480698Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 0.0,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:08:34.482511Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 8.31,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:08:38.489861Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 0.0,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:08:42.480598Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 0.0,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:08:46.489593Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 9.5,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:08:50.492537Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 9.46,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:08:54.490433Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 0.0,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:08:58.490069Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 0.0,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:09:02.691255Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 0.0,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:09:06.689506Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 0.0,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:09:10.691106Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 0.0,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:09:14.703896Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 0.0,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:09:18.683384Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 1.01,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:09:22.692472Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 0.0,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:09:26.680906Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 0.0,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:09:30.688927Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 1.12,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:09:34.687015Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 0.0,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:09:38.691114Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 0.98,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:09:42.681841Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 0.0,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:09:46.687720Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 0.0,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:09:50.689182Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 0.0,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:09:54.680851Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 1.0,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:09:58.691724Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 1.01,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:10:58.690978Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 2.0,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:11:58.692233Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 1.13,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:12:58.690727Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 1.51,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:13:58.707368Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 1.1,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:14:58.686824Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 0.0,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:15:58.680920Z"
+    },
+    {
+      "endpoint": "/api/monitoring-metrics",
+      "latency_ms": 1.0,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:16:42.373312Z"
+    },
+    {
+      "endpoint": "/api/smart-plan",
+      "latency_ms": 6975.89,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:17:26.886076Z"
+    },
+    {
+      "endpoint": "/get-routes",
+      "latency_ms": 1723.08,
+      "status_code": 200,
+      "timestamp": "2026-06-11T07:19:40.507149Z"
+    },
+    {
+      "endpoint": "/api/smart-plan",
+      "latency_ms": 7324.01,
+      "status_code": 200,
+      "timestamp": "2026-06-11T09:45:19.002127Z"
+    }
+  ],
+  "error_logs": []
+}

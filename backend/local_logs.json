@@ -1,0 +1,93 @@
+[
+  {
+    "timestamp": "2026-05-17T13:55:51.811631",
+    "source": "Mumbai",
+    "destination": "Pune",
+    "budget": 1000.0,
+    "preference": "eco-friendly"
+  },
+  {
+    "timestamp": "2026-05-17T20:52:17.455802",
+    "source": "9.0994, 76.4903",
+    "destination": "Vijayawada",
+    "budget": 250.0,
+    "preference": "eco-friendly"
+  },
+  {
+    "timestamp": "2026-05-17T20:52:47.817075",
+    "source": "9.0994, 76.4903",
+    "destination": "Vijayawada",
+    "budget": 250.0,
+    "preference": "cheap"
+  },
+  {
+    "timestamp": "2026-05-17T21:08:56.824963",
+    "source": "Mumbai, India",
+    "destination": "Pune, India",
+    "budget": 500.0,
+    "preference": "eco-friendly"
+  },
+  {
+    "timestamp": "2026-05-17T22:00:58.784281",
+    "source": "9.0993, 76.4903",
+    "destination": "Pune",
+    "budget": 1140.0,
+    "preference": "eco-friendly"
+  },
+  {
+    "timestamp": "2026-05-17T22:03:58.539365",
+    "source": "9.0993, 76.4903",
+    "destination": "Mumbai",
+    "budget": 880.0,
+    "preference": "eco-friendly"
+  },
+  {
+    "timestamp": "2026-05-17T22:06:56.201779",
+    "source": "9.0993, 76.4903",
+    "destination": "Hyderabad",
+    "budget": 1330.0,
+    "preference": "fast"
+  },
+  {
+    "timestamp": "2026-05-17T22:12:02.908065",
+    "source": "Mumbai, India",
+    "destination": "Pune, India",
+    "budget": 500.0,
+    "preference": "eco-friendly"
+  },
+  {
+    "timestamp": "2026-05-17T22:20:00.632528",
+    "source": "9.0993, 76.4903",
+    "destination": "Trivandrum",
+    "budget": 560.0,
+    "preference": "cheap"
+  },
+  {
+    "timestamp": "2026-05-17T22:25:24.979639",
+    "source": "9.0993, 76.4903",
+    "destination": "pune",
+    "budget": 12.0,
+    "preference": "eco-friendly"
+  },
+  {
+    "timestamp": "2026-05-18T06:13:46.739796",
+    "source": "Delhi, India",
+    "destination": "Chandigarh, India",
+    "budget": 50000.0,
+    "preference": "eco-friendly"
+  },
+  {
+    "timestamp": "2026-06-11T07:04:39.596976",
+    "source": "Mumbai",
+    "destination": "Vijayawada",
+    "budget": 50000.0,
+    "preference": "eco-friendly"
+  },
+  {
+    "timestamp": "2026-06-11T07:19:42.049088",
+    "source": "Mumbai",
+    "destination": "Paris, France",
+    "budget": 50000.0,
+    "preference": "cheap"
+  }
+]

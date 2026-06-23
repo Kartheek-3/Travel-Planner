@@ -1,0 +1,409 @@
+PROMPT: i am bored 
+EXCEPTION: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+
+PROMPT: I am bored
+EXCEPTION: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+
+PROMPT: Plan a trip to Pune
+EXCEPTION: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+
+PROMPT: i am bored
+EXCEPTION: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+
+PROMPT: I am bored 
+EXCEPTION: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+
+PROMPT: I am bored 
+EXCEPTION: 404 models/gemini-1.5-flash is not found for API version v1beta, or is not supported for generateContent. Call ModelService.ListModels to see the list of available models and their supported methods.
+
+PROMPT: You are EcoRoute AI, an intelligent, extremely polite travel chatbot aligned with UN SDGs 11, 12, 13. The user says: 'hi'. Answer briefly (1-2 sentences max), encourage green transport like rail, cycling, or transit, and mention you can analyze cost and carbon emissions dynamically.
+EXCEPTION: 403 Agent Platform API has not been used in project cineevent-5a275 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry. [reason: "SERVICE_DISABLED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "aiplatform.googleapis.com"
+}
+metadata {
+  key: "serviceTitle"
+  value: "Agent Platform API"
+}
+metadata {
+  key: "containerInfo"
+  value: "cineevent-5a275"
+}
+metadata {
+  key: "consumer"
+  value: "projects/cineevent-5a275"
+}
+metadata {
+  key: "activationUrl"
+  value: "https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275"
+}
+, locale: "en-US"
+message: "Agent Platform API has not been used in project cineevent-5a275 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+, links {
+  description: "Google developers console API activation"
+  url: "https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275"
+}
+]
+
+PROMPT: i am feeeling bored .prepare a plan for it  (Budget: USD 50000, Duration: 4 days)
+EXCEPTION: 403 Agent Platform API has not been used in project cineevent-5a275 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry. [reason: "SERVICE_DISABLED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "aiplatform.googleapis.com"
+}
+metadata {
+  key: "serviceTitle"
+  value: "Agent Platform API"
+}
+metadata {
+  key: "containerInfo"
+  value: "cineevent-5a275"
+}
+metadata {
+  key: "consumer"
+  value: "projects/cineevent-5a275"
+}
+metadata {
+  key: "activationUrl"
+  value: "https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275"
+}
+, locale: "en-US"
+message: "Agent Platform API has not been used in project cineevent-5a275 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+, links {
+  description: "Google developers console API activation"
+  url: "https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275"
+}
+]
+
+PROMPT: i am feeeling bored .prepare a plan for it  (Budget: USD 50000, Duration: 5 days)
+EXCEPTION: 403 Agent Platform API has not been used in project cineevent-5a275 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry. [reason: "SERVICE_DISABLED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "aiplatform.googleapis.com"
+}
+metadata {
+  key: "serviceTitle"
+  value: "Agent Platform API"
+}
+metadata {
+  key: "containerInfo"
+  value: "cineevent-5a275"
+}
+metadata {
+  key: "consumer"
+  value: "projects/cineevent-5a275"
+}
+metadata {
+  key: "activationUrl"
+  value: "https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275"
+}
+, locale: "en-US"
+message: "Agent Platform API has not been used in project cineevent-5a275 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+, links {
+  description: "Google developers console API activation"
+  url: "https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275"
+}
+]
+
+PROMPT: prepare a trip for iv (Budget: USD 5600, Duration: 6 days)
+EXCEPTION: 403 Agent Platform API has not been used in project cineevent-5a275 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry. [reason: "SERVICE_DISABLED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "aiplatform.googleapis.com"
+}
+metadata {
+  key: "serviceTitle"
+  value: "Agent Platform API"
+}
+metadata {
+  key: "containerInfo"
+  value: "cineevent-5a275"
+}
+metadata {
+  key: "consumer"
+  value: "projects/cineevent-5a275"
+}
+metadata {
+  key: "activationUrl"
+  value: "https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275"
+}
+, locale: "en-US"
+message: "Agent Platform API has not been used in project cineevent-5a275 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+, links {
+  description: "Google developers console API activation"
+  url: "https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275"
+}
+]
+
+PROMPT: i m bored  (Budget: USD 50000, Duration: 4 days)
+EXCEPTION: 403 Agent Platform API has not been used in project cineevent-5a275 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry. [reason: "SERVICE_DISABLED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "aiplatform.googleapis.com"
+}
+metadata {
+  key: "serviceTitle"
+  value: "Agent Platform API"
+}
+metadata {
+  key: "containerInfo"
+  value: "cineevent-5a275"
+}
+metadata {
+  key: "consumer"
+  value: "projects/cineevent-5a275"
+}
+metadata {
+  key: "activationUrl"
+  value: "https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275"
+}
+, locale: "en-US"
+message: "Agent Platform API has not been used in project cineevent-5a275 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+, links {
+  description: "Google developers console API activation"
+  url: "https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275"
+}
+]
+
+PROMPT: i m bored  (Budget: USD 500000, Duration: 10 days)
+EXCEPTION: 403 Agent Platform API has not been used in project cineevent-5a275 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry. [reason: "SERVICE_DISABLED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "aiplatform.googleapis.com"
+}
+metadata {
+  key: "serviceTitle"
+  value: "Agent Platform API"
+}
+metadata {
+  key: "containerInfo"
+  value: "cineevent-5a275"
+}
+metadata {
+  key: "consumer"
+  value: "projects/cineevent-5a275"
+}
+metadata {
+  key: "activationUrl"
+  value: "https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275"
+}
+, locale: "en-US"
+message: "Agent Platform API has not been used in project cineevent-5a275 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+, links {
+  description: "Google developers console API activation"
+  url: "https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275"
+}
+]
+
+PROMPT: I feel stressed (Budget: INR 50000, Duration: 3 days)
+EXCEPTION: 403 Agent Platform API has not been used in project cineevent-5a275 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry. [reason: "SERVICE_DISABLED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "aiplatform.googleapis.com"
+}
+metadata {
+  key: "serviceTitle"
+  value: "Agent Platform API"
+}
+metadata {
+  key: "containerInfo"
+  value: "cineevent-5a275"
+}
+metadata {
+  key: "consumer"
+  value: "projects/cineevent-5a275"
+}
+metadata {
+  key: "activationUrl"
+  value: "https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275"
+}
+, locale: "en-US"
+message: "Agent Platform API has not been used in project cineevent-5a275 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+, links {
+  description: "Google developers console API activation"
+  url: "https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275"
+}
+]
+
+PROMPT: I feel stressed (Budget: INR 50000, Duration: 3 days)
+EXCEPTION: 403 Agent Platform API has not been used in project cineevent-5a275 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry. [reason: "SERVICE_DISABLED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "aiplatform.googleapis.com"
+}
+metadata {
+  key: "serviceTitle"
+  value: "Agent Platform API"
+}
+metadata {
+  key: "containerInfo"
+  value: "cineevent-5a275"
+}
+metadata {
+  key: "consumer"
+  value: "projects/cineevent-5a275"
+}
+metadata {
+  key: "activationUrl"
+  value: "https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275"
+}
+, locale: "en-US"
+message: "Agent Platform API has not been used in project cineevent-5a275 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+, links {
+  description: "Google developers console API activation"
+  url: "https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275"
+}
+]
+
+PROMPT: I feel tired and want pure relaxation in nature (Budget: INR 50000, Duration: 5 days)
+EXCEPTION: 403 Agent Platform API has not been used in project cineevent-5a275 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry. [reason: "SERVICE_DISABLED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "aiplatform.googleapis.com"
+}
+metadata {
+  key: "serviceTitle"
+  value: "Agent Platform API"
+}
+metadata {
+  key: "containerInfo"
+  value: "cineevent-5a275"
+}
+metadata {
+  key: "consumer"
+  value: "projects/cineevent-5a275"
+}
+metadata {
+  key: "activationUrl"
+  value: "https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275"
+}
+, locale: "en-US"
+message: "Agent Platform API has not been used in project cineevent-5a275 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+, links {
+  description: "Google developers console API activation"
+  url: "https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275"
+}
+]
+
+PROMPT: i am feeling burn out  (Budget: INR 50000, Duration: 5 days)
+EXCEPTION: 403 Agent Platform API has not been used in project cineevent-5a275 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry. [reason: "SERVICE_DISABLED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "aiplatform.googleapis.com"
+}
+metadata {
+  key: "serviceTitle"
+  value: "Agent Platform API"
+}
+metadata {
+  key: "containerInfo"
+  value: "cineevent-5a275"
+}
+metadata {
+  key: "consumer"
+  value: "projects/cineevent-5a275"
+}
+metadata {
+  key: "activationUrl"
+  value: "https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275"
+}
+, locale: "en-US"
+message: "Agent Platform API has not been used in project cineevent-5a275 before or it is disabled. Enable it by visiting https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275 then retry. If you enabled this API recently, wait a few minutes for the action to propagate to our systems and retry."
+, links {
+  description: "Google developers console API activation"
+  url: "https://console.developers.google.com/apis/api/aiplatform.googleapis.com/overview?project=cineevent-5a275"
+}
+]
+
+PROMPT: You are EcoRoute AI, an intelligent, extremely polite travel chatbot aligned with UN SDGs 11, 12, 13. The user says: 'hi'. Answer briefly (1-2 sentences max), encourage green transport like rail, cycling, or transit, and mention you can analyze cost and carbon emissions dynamically.
+EXCEPTION: 403 This API method requires billing to be enabled. Please enable billing on project #cineevent-5a275 by visiting https://console.developers.google.com/billing/enable?project=cineevent-5a275 then retry. If you enabled billing for this project recently, wait a few minutes for the action to propagate to our systems and retry. [reason: "BILLING_DISABLED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "aiplatform.googleapis.com"
+}
+metadata {
+  key: "containerInfo"
+  value: "cineevent-5a275"
+}
+metadata {
+  key: "consumer"
+  value: "projects/cineevent-5a275"
+}
+metadata {
+  key: "consoleUrl"
+  value: "https://console.developers.google.com/billing/enable?project=cineevent-5a275"
+}
+, locale: "en-US"
+message: "This API method requires billing to be enabled. Please enable billing on project #cineevent-5a275 by visiting https://console.developers.google.com/billing/enable?project=cineevent-5a275 then retry. If you enabled billing for this project recently, wait a few minutes for the action to propagate to our systems and retry."
+, links {
+  description: "Google developers console billing"
+  url: "https://console.developers.google.com/billing/enable?project=cineevent-5a275"
+}
+]
+
+PROMPT: plan a trip to Paris (Budget: INR 50000, Duration: 5 days)
+EXCEPTION: 403 This API method requires billing to be enabled. Please enable billing on project #cineevent-5a275 by visiting https://console.developers.google.com/billing/enable?project=cineevent-5a275 then retry. If you enabled billing for this project recently, wait a few minutes for the action to propagate to our systems and retry. [reason: "BILLING_DISABLED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "aiplatform.googleapis.com"
+}
+metadata {
+  key: "containerInfo"
+  value: "cineevent-5a275"
+}
+metadata {
+  key: "consumer"
+  value: "projects/cineevent-5a275"
+}
+metadata {
+  key: "consoleUrl"
+  value: "https://console.developers.google.com/billing/enable?project=cineevent-5a275"
+}
+, locale: "en-US"
+message: "This API method requires billing to be enabled. Please enable billing on project #cineevent-5a275 by visiting https://console.developers.google.com/billing/enable?project=cineevent-5a275 then retry. If you enabled billing for this project recently, wait a few minutes for the action to propagate to our systems and retry."
+, links {
+  description: "Google developers console billing"
+  url: "https://console.developers.google.com/billing/enable?project=cineevent-5a275"
+}
+]
+
+PROMPT: plan a trip (Budget: INR 50000, Duration: 5 days)
+EXCEPTION: 403 This API method requires billing to be enabled. Please enable billing on project #cineevent-5a275 by visiting https://console.developers.google.com/billing/enable?project=cineevent-5a275 then retry. If you enabled billing for this project recently, wait a few minutes for the action to propagate to our systems and retry. [reason: "BILLING_DISABLED"
+domain: "googleapis.com"
+metadata {
+  key: "service"
+  value: "aiplatform.googleapis.com"
+}
+metadata {
+  key: "containerInfo"
+  value: "cineevent-5a275"
+}
+metadata {
+  key: "consumer"
+  value: "projects/cineevent-5a275"
+}
+metadata {
+  key: "consoleUrl"
+  value: "https://console.developers.google.com/billing/enable?project=cineevent-5a275"
+}
+, locale: "en-US"
+message: "This API method requires billing to be enabled. Please enable billing on project #cineevent-5a275 by visiting https://console.developers.google.com/billing/enable?project=cineevent-5a275 then retry. If you enabled billing for this project recently, wait a few minutes for the action to propagate to our systems and retry."
+, links {
+  description: "Google developers console billing"
+  url: "https://console.developers.google.com/billing/enable?project=cineevent-5a275"
+}
+]
+

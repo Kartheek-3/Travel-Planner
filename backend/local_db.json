@@ -1,0 +1,407 @@
+[
+  {
+    "timestamp": "2026-05-17T13:56:13.206313",
+    "source": "Mumbai",
+    "destination": "Pune",
+    "budget": 1000,
+    "preference": "eco-friendly",
+    "selected_route_id": "route_3",
+    "routes": [
+      {
+        "carbon": 2.4,
+        "cost": 5,
+        "distance": "20.0 km",
+        "distance_val": 20000,
+        "id": "route_1",
+        "mode": "driving",
+        "mode_display": "Driving (Car)",
+        "tags": [
+          "Fastest"
+        ],
+        "time": "18 mins",
+        "time_val": 1107
+      },
+      {
+        "carbon": 0.92,
+        "cost": 1.84,
+        "distance": "23.0 km",
+        "distance_val": 23000,
+        "id": "route_2",
+        "mode": "transit",
+        "mode_display": "Public Transit (Bus/Train)",
+        "tags": [],
+        "time": "30 mins",
+        "time_val": 1839
+      },
+      {
+        "carbon": 0,
+        "cost": 0,
+        "distance": "19.0 km",
+        "distance_val": 19000,
+        "id": "route_3",
+        "mode": "bicycling",
+        "mode_display": "Bicycling",
+        "tags": [
+          "Cheapest",
+          "Eco-Friendly"
+        ],
+        "time": "1h 3m",
+        "time_val": 3800
+      },
+      {
+        "carbon": 0,
+        "cost": 0,
+        "distance": "18.0 km",
+        "distance_val": 18000,
+        "id": "route_4",
+        "mode": "walking",
+        "mode_display": "Walking",
+        "tags": [
+          "Cheapest",
+          "Eco-Friendly"
+        ],
+        "time": "3h 45m",
+        "time_val": 13500
+      }
+    ]
+  },
+  {
+    "timestamp": "2026-05-17T17:51:38.493893",
+    "source": "9.099403624532432, 76.49030431511723",
+    "destination": "Paris",
+    "budget": 1000,
+    "preference": "eco-friendly",
+    "selected_route_id": "route_2",
+    "routes": [
+      {
+        "carbon": 6.12,
+        "cost": 12.75,
+        "distance": "51.0 km",
+        "distance_val": 51000,
+        "id": "route_1",
+        "mode": "driving",
+        "mode_display": "Driving (Car)",
+        "tags": [
+          "Fastest"
+        ],
+        "time": "47 mins",
+        "time_val": 2824
+      },
+      {
+        "carbon": 2.35,
+        "cost": 4.69,
+        "distance": "58.65 km",
+        "distance_val": 58650,
+        "id": "route_2",
+        "mode": "transit",
+        "mode_display": "Public Transit (Bus/Train)",
+        "tags": [
+          "Cheapest",
+          "Eco-Friendly"
+        ],
+        "time": "1h 18m",
+        "time_val": 4692
+      }
+    ]
+  },
+  {
+    "id": "17754bc5586f4555b6c39e0bc8390023",
+    "timestamp": "2026-05-17T20:55:02.303038",
+    "source": "9.099403624532432, 76.49030431511723",
+    "destination": "Paris",
+    "budget": 1000,
+    "preference": "eco-friendly",
+    "selected_route_id": "route_2",
+    "routes": [
+      {
+        "carbon": 6.12,
+        "cost": 12.75,
+        "distance": "51.0 km",
+        "distance_val": 51000,
+        "id": "route_1",
+        "mode": "driving",
+        "mode_display": "Driving (Car)",
+        "tags": [
+          "Fastest"
+        ],
+        "time": "47 mins",
+        "time_val": 2824
+      },
+      {
+        "carbon": 2.35,
+        "cost": 4.69,
+        "distance": "58.65 km",
+        "distance_val": 58650,
+        "id": "route_2",
+        "mode": "transit",
+        "mode_display": "Public Transit (Bus/Train)",
+        "tags": [
+          "Cheapest",
+          "Eco-Friendly"
+        ],
+        "time": "1h 18m",
+        "time_val": 4692
+      }
+    ]
+  },
+  {
+    "id": "18773934dada4faeab4247feae8c73da",
+    "timestamp": "2026-05-17T21:09:11.728935",
+    "source": "Mumbai, India",
+    "destination": "Pune, India",
+    "budget": 500,
+    "preference": "eco-friendly",
+    "selected_route_id": "route_2",
+    "routes": [
+      {
+        "carbon": 17.75,
+        "cost": 36.98,
+        "distance": "147.91 km",
+        "distance_val": 147909,
+        "id": "route_1",
+        "mode": "driving",
+        "mode_display": "Driving",
+        "tags": [
+          "Fastest"
+        ],
+        "time": "2h 35m",
+        "time_val": 9356
+      },
+      {
+        "carbon": 5.61,
+        "cost": 11.21,
+        "distance": "140.13 km",
+        "distance_val": 140133,
+        "id": "route_2",
+        "mode": "transit",
+        "mode_display": "Public Transit",
+        "tags": [],
+        "time": "5h 18m",
+        "time_val": 19134
+      },
+      {
+        "carbon": 0,
+        "cost": 0,
+        "distance": "151.79 km",
+        "distance_val": 151789,
+        "id": "route_3",
+        "mode": "walking",
+        "mode_display": "Walking",
+        "tags": [
+          "Cheapest",
+          "Eco-Friendly"
+        ],
+        "time": "33h 18m",
+        "time_val": 119907
+      }
+    ]
+  },
+  {
+    "id": "07b66e86e52141d7b729aaa05bcf1436",
+    "timestamp": "2026-05-17T21:09:22.543313",
+    "source": "Mumbai, India",
+    "destination": "Pune, India",
+    "budget": 500,
+    "preference": "eco-friendly",
+    "selected_route_id": "route_2",
+    "routes": [
+      {
+        "carbon": 17.75,
+        "cost": 36.98,
+        "distance": "147.91 km",
+        "distance_val": 147909,
+        "id": "route_1",
+        "mode": "driving",
+        "mode_display": "Driving",
+        "tags": [
+          "Fastest"
+        ],
+        "time": "2h 35m",
+        "time_val": 9356
+      },
+      {
+        "carbon": 5.61,
+        "cost": 11.21,
+        "distance": "140.13 km",
+        "distance_val": 140133,
+        "id": "route_2",
+        "mode": "transit",
+        "mode_display": "Public Transit",
+        "tags": [],
+        "time": "5h 18m",
+        "time_val": 19134
+      },
+      {
+        "carbon": 0,
+        "cost": 0,
+        "distance": "151.79 km",
+        "distance_val": 151789,
+        "id": "route_3",
+        "mode": "walking",
+        "mode_display": "Walking",
+        "tags": [
+          "Cheapest",
+          "Eco-Friendly"
+        ],
+        "time": "33h 18m",
+        "time_val": 119907
+      }
+    ]
+  },
+  {
+    "id": "96bdc007832a409e8fd6fb5c5bd84bea",
+    "timestamp": "2026-05-17T21:09:32.775781",
+    "source": "Mumbai, India",
+    "destination": "Pune, India",
+    "budget": 500,
+    "preference": "eco-friendly",
+    "selected_route_id": "route_2",
+    "routes": [
+      {
+        "carbon": 17.75,
+        "cost": 36.98,
+        "distance": "147.91 km",
+        "distance_val": 147909,
+        "id": "route_1",
+        "mode": "driving",
+        "mode_display": "Driving",
+        "tags": [
+          "Fastest"
+        ],
+        "time": "2h 35m",
+        "time_val": 9356
+      },
+      {
+        "carbon": 5.61,
+        "cost": 11.21,
+        "distance": "140.13 km",
+        "distance_val": 140133,
+        "id": "route_2",
+        "mode": "transit",
+        "mode_display": "Public Transit",
+        "tags": [],
+        "time": "5h 18m",
+        "time_val": 19134
+      },
+      {
+        "carbon": 0,
+        "cost": 0,
+        "distance": "151.79 km",
+        "distance_val": 151789,
+        "id": "route_3",
+        "mode": "walking",
+        "mode_display": "Walking",
+        "tags": [
+          "Cheapest",
+          "Eco-Friendly"
+        ],
+        "time": "33h 18m",
+        "time_val": 119907
+      }
+    ]
+  },
+  {
+    "id": "7c09191e7db048bc8b6ca41b6435cecf",
+    "timestamp": "2026-05-17T21:09:52.293519",
+    "source": "Mumbai, India",
+    "destination": "Pune, India",
+    "budget": 500,
+    "preference": "eco-friendly",
+    "selected_route_id": "route_2",
+    "routes": [
+      {
+        "carbon": 17.75,
+        "cost": 36.98,
+        "distance": "147.91 km",
+        "distance_val": 147909,
+        "id": "route_1",
+        "mode": "driving",
+        "mode_display": "Driving",
+        "tags": [
+          "Fastest"
+        ],
+        "time": "2h 35m",
+        "time_val": 9356
+      },
+      {
+        "carbon": 5.61,
+        "cost": 11.21,
+        "distance": "140.13 km",
+        "distance_val": 140133,
+        "id": "route_2",
+        "mode": "transit",
+        "mode_display": "Public Transit",
+        "tags": [],
+        "time": "5h 18m",
+        "time_val": 19134
+      },
+      {
+        "carbon": 0,
+        "cost": 0,
+        "distance": "151.79 km",
+        "distance_val": 151789,
+        "id": "route_3",
+        "mode": "walking",
+        "mode_display": "Walking",
+        "tags": [
+          "Cheapest",
+          "Eco-Friendly"
+        ],
+        "time": "33h 18m",
+        "time_val": 119907
+      }
+    ]
+  },
+  {
+    "id": "75e23d88a7de4b70ba224bb4a5a07f7b",
+    "timestamp": "2026-05-18T06:19:26.134140",
+    "source": "Delhi, India",
+    "destination": "Chandigarh, India",
+    "budget": 50000,
+    "preference": "eco-friendly",
+    "selected_route_id": "route_1",
+    "routes": [
+      {
+        "carbon": 29.21,
+        "cost": 60.86,
+        "distance": "243.45 km",
+        "distance_val": 243446,
+        "id": "route_1",
+        "mode": "driving",
+        "mode_display": "Driving",
+        "tags": [
+          "Fastest"
+        ],
+        "time": "4h 12m",
+        "time_val": 15170
+      },
+      {
+        "carbon": 10.01,
+        "cost": 20.02,
+        "distance": "250.27 km",
+        "distance_val": 250272,
+        "id": "route_2",
+        "mode": "transit",
+        "mode_display": "Public Transit",
+        "tags": [],
+        "time": "5h 40m",
+        "time_val": 20451
+      },
+      {
+        "carbon": 0,
+        "cost": 0,
+        "distance": "240.3 km",
+        "distance_val": 240304,
+        "id": "route_3",
+        "mode": "walking",
+        "mode_display": "Walking",
+        "tags": [
+          "Cheapest",
+          "Eco-Friendly"
+        ],
+        "time": "54h 13m",
+        "time_val": 195194
+      }
+    ]
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "displayName": "Cloud Run High Latency Alert (>1s)",
+  "combiner": "OR",
+  "conditions": [
+    {
+      "displayName": "Cloud Run End-to-End Latency > 1000ms",
+      "conditionThreshold": {
+        "filter": "resource.type = \"cloud_run_revision\" AND metric.type = \"run.googleapis.com/request_latency/e2e_latency\"",
+        "aggregations": [
+          {
+            "alignmentPeriod": "60s",
+            "crossSeriesReducer": "REDUCE_NONE",
+            "perSeriesAligner": "ALIGN_PERCENTILE_95"
+          }
+        ],
+        "comparison": "COMPARISON_GT",
+        "thresholdValue": 1000,
+        "duration": "300s",
+        "trigger": {
+          "count": 1
+        }
+      }
+    }
+  ],
+  "notificationChannels": [
+    "projects/cineevent-5a275/notificationChannels/6147760851179834074"
+  ],
+  "enabled": true
+}
