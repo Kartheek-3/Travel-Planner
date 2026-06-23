@@ -1,0 +1,40 @@
+# =========================================================================
+# Google Cloud Build Pipeline Configuration
+# Automates building and deploying the Smart Travel Planner to Cloud Run
+# =========================================================================
+steps:
+  # 1. Build the unified Docker container in the cloud (uses the Flask + React Dockerfile)
+  - name: 'gcr.io/cloud-builders/docker'
+    args: [
+      'build',
+      '-t', 'gcr.io/$PROJECT_ID/travel-planner-app:$COMMIT_SHA',
+      '-f', 'Dockerfile',
+      '.'
+    ]
+
+  # 2. Push the built container image to Artifact Registry / Container Registry
+  - name: 'gcr.io/cloud-builders/docker'
+    args: ['push', 'gcr.io/$PROJECT_ID/travel-planner-app:$COMMIT_SHA']
+
+  # 3. Deploy the container image to Cloud Run securely
+  - name: 'gcr.io/google.com/cloudsdktool/cloud-sdk'
+    entrypoint: gcloud
+    args:
+      - 'run'
+      - 'deploy'
+      - 'travel-planner-app'
+      - '--image'
+      - 'gcr.io/$PROJECT_ID/travel-planner-app:$COMMIT_SHA'
+      - '--region'
+      - 'us-central1'
+      - '--platform'
+      - 'managed'
+      - '--allow-unauthenticated'
+      - '--set-env-vars'
+      - 'BIGQUERY_TABLE_ID=cineevent-5a275.travel_dataset.travel_data'
+      - '--update-secrets'
+      - 'GOOGLE_MAPS_API_KEY=GOOGLE_MAPS_API_KEY:latest,GEMINI_API_KEY=GEMINI_API_KEY:latest,OPENWEATHER_API_KEY=OPENWEATHER_API_KEY:latest,FCM_SERVER_KEY=FCM_SERVER_KEY:latest'
+
+# Track build artifacts in GCR
+images:
+  - 'gcr.io/$PROJECT_ID/travel-planner-app:$COMMIT_SHA'

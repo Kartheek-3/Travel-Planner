@@ -9,7 +9,7 @@ load_dotenv()
 # Extract GCP configurations dynamically to prevent hardcoding
 TABLE_ID = os.environ.get("BIGQUERY_TABLE_ID", "cineevent-5a275.travel_dataset.travel_data")
 PROJECT_ID = TABLE_ID.split(".")[0] if TABLE_ID else "cineevent-5a275"
-LOCATION = "us-central1" # default stable location for Vertex generative models
+LOCATION = os.environ.get("VERTEX_LOCATION", "us-central1")  # Vertex AI region, configurable via .env
 
 # Initialize Vertex AI
 # Note: google-cloud-aiplatform reads GOOGLE_APPLICATION_CREDENTIALS automatically from env
@@ -307,7 +307,7 @@ def analyze_prompt_with_gemini(user_prompt, current_location_name=None):
     Return ONLY valid JSON. Do not include markdown formatting or extra text.
     """
     
-    log_file = r"e:\travel-planner-ai-master\backend\gemini_debug.log"
+    log_file = os.path.join(os.path.dirname(__file__), "gemini_debug.log")
     try:
         response = model.generate_content(f"{system_instruction}\n\nUser Prompt: {user_prompt}")
         result_text = response.text.replace("```json", "").replace("```", "").strip()

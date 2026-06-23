@@ -1,0 +1,34 @@
+# Environment variables (never commit secrets!)
+.env
+.env.*
+!.env.example
+
+# GCP Service Account Keys
+*.json
+!package.json
+!package-lock.json
+
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+venv/
+.venv/
+*.egg-info/
+
+# Node.js
+node_modules/
+
+# Build output
+frontend/dist/
+dist/
+
+# Logs
+*.log
+gemini_debug.log
+
+# Local DB / data files
+local_db.json
+local_logs.json
+local_monitoring.json
+local_travel_planner.db

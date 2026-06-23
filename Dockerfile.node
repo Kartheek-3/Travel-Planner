@@ -1,0 +1,35 @@
+# ==========================================
+# MULTI-STAGE DOCKERFILE: NODE EXPRESS + VITE REACT
+# ==========================================
+
+# --- Stage 1: Build the Vite React Frontend ---
+FROM node:20-alpine AS frontend-builder
+WORKDIR /app/frontend
+COPY frontend/package*.json ./
+RUN npm install --legacy-peer-deps
+COPY frontend/ ./
+RUN npm run build
+
+# --- Stage 2: Production Node.js Runtime ---
+FROM node:20-alpine
+WORKDIR /app
+
+# Copy backend package files and install only production dependencies
+COPY backend/package*.json ./backend/
+RUN npm install --prefix backend --only=production
+
+# Copy backend application files
+COPY backend/ ./backend/
+
+# Copy the compiled static frontend files so Express can serve them
+COPY --from=frontend-builder /app/frontend/dist ./frontend/dist
+
+# Expose the standard Cloud Run port
+EXPOSE 8080
+
+# Set environment to production
+ENV NODE_ENV=production
+
+# Start Express server
+WORKDIR /app/backend
+CMD ["sh", "-c", "node server.js"]
